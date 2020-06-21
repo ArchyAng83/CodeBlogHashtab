@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeBlogHashtab", "CodeBlogHashtab.csproj", "{1169479A-7046-42A4-95EC-8D5529AF1293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1169479A-7046-42A4-95EC-8D5529AF1293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1169479A-7046-42A4-95EC-8D5529AF1293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1169479A-7046-42A4-95EC-8D5529AF1293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1169479A-7046-42A4-95EC-8D5529AF1293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FE753BD-DB40-4AC8-8B8E-D0B9ECA7AEE0}
+	EndGlobalSection
+EndGlobal
